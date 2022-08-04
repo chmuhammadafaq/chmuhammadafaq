@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/chusamasadiq/chusamasadiq/blob/main/wave.gif"  width="30px" height = "30" /> I'm Muhammad Afaq 
+# Hi <img src="https://github.com/chmuhammadafaq/chmuhammadafaq/blob/main/wave.gif"  width="30px" height = "30" /> I'm Muhammad Afaq 
 
 ## I'm a Developer!
 
@@ -33,13 +33,7 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt=" | YouTube" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
-[<img align="left" alt=" | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="| LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt=" | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt=" | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-
 
 [facebook]:  https://www.facebook.com/muhammad.afaq.1234
 
