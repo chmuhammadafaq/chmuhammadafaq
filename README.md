@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/chmuhammadafaq/chmuhammadafaq/blob/main/wave.gif"  width="30px" height = "30" /> I'm Muhammad Afaq 
+# Hi I'm Muhammad Afaq 
 
 ## I'm a Developer!
 
